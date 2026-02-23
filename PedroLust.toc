@@ -1,4 +1,4 @@
-## Interface: 50503
+## Interface: 11508,20505,50503,110207
 ## Title: PedroLust
 ## Notes: Pedrolust
 ## Author: PsyKzz
