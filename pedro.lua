@@ -14,8 +14,8 @@ local pedro_columns_to_use = 4
 local pedro_frames   = 32  
 local pedro_fps            = 8
 
-local pedro_sound = "Interface\\AddOns\\SpellSoundCast\\Media\\pedro.mp3"
-local pedro_texture = "Interface\\AddOns\\SpellSoundCast\\Media\\pedro"
+local pedro_sound = "Interface\\AddOns\\PedroLust\\Media\\pedro.mp3"
+local pedro_texture = "Interface\\AddOns\\PedroLust\\Media\\pedro"
 
 local pedro_overlay = CreateFrame("Frame", "SpellSoundMinimapOverlay", Minimap)
 pedro_overlay:SetAllPoints(Minimap)
