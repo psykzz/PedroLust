@@ -1,0 +1,7 @@
+## Interface: 50503
+## Title: PedroLust
+## Notes: Pedrolust
+## Author: PsyKzz
+## Version: 0.0.1
+
+pedro.lua
