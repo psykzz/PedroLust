@@ -2,6 +2,7 @@
 ## Title: PedroLust
 ## Notes: Pedrolust
 ## Author: PsyKzz
-## Version: 0.0.1
+## Version: @project-version@
+## X-Curse-Project-ID: 1470316
 
 pedro.lua
